@@ -1,0 +1,40 @@
+# Node modules (client + server)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables (never commit API keys, DB URLs, etc.)
+.env
+.env.local
+server/.env
+client/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# Build / dist output
+/build
+/dist
+
+# Uploads & images (optional: if you don’t want to push them)
+uploads/
+images/
+img/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Package locks (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
