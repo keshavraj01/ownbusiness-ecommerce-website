@@ -1,4 +1,4 @@
-# 🚀 E-Commerce Project
+# E-Commerce Project
 
 <!-- [![Project Preview](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28) -->
 
@@ -6,11 +6,11 @@ This repository contains a full-stack e-commerce application built with a **Reac
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 Follow the steps below to run the project locally for development and testing.
 
-### ✅ Prerequisites
+### Prerequisites
 
 Before you begin, make sure you have:
 
@@ -20,7 +20,7 @@ Before you begin, make sure you have:
 
 ---
 
-### ⚙️ Environment Variables
+### Environment Variables
 
 In the `server/.env` file, configure your own credentials. Example:
 
@@ -39,7 +39,7 @@ DATABASE=mongodb+srv://<username>:<password>@cluster.mongodb.net/ecommerce?retry
 
 ---
 
-### 📥 Installation
+### Installation
 
 Clone the repository and install dependencies for both client and server:
 
@@ -50,7 +50,7 @@ cd ../server && npm install
 
 ---
 
-### ▶️ Running Locally
+### Running Locally
 
 Start the backend:
 
@@ -66,6 +66,6 @@ cd client
 npm run start
 ```
 
-Open your browser at 👉 [http://localhost:3000](http://localhost:3000)
+Open your browser at [http://localhost:3000](http://localhost:3000)
 
 ---
